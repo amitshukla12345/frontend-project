@@ -1,0 +1,19 @@
+.block{
+    border: 2px; solid red;
+    height:70px;
+}
+#block1{
+    background-color: aqua;
+}
+#block2{
+    background-color: blue;
+}
+#block3{
+    background-color: brown;
+}
+#block4{
+    background-color: chartreuse;
+}
+#block5{
+    background-color: darkorange;
+}

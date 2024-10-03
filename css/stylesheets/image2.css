@@ -1,0 +1,19 @@
+div{
+    border: 2px solid black;
+}
+#box1{
+    width: 500px;
+    float: left;
+}
+#box2{
+    
+    width:300px;
+    float:right;
+}
+body{
+    background-image: url("../../image/as.jpeg");
+    background-repeat: repeat-y;
+    background-size: cover;
+    /*cover contain percentage*/
+    background-size: 50%;
+}
